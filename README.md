@@ -14,17 +14,17 @@ Dispositivo que nos avisa en momentos programados de manera visual y auditiva us
 - [Scheduled](https://www.npmjs.com/package/scheduled)
 
 ### Esquemas
-- *Protoboard:*
+- **Protoboard:**
 ![img_proto](fotos/Protoboard_deadline_alarm.png)
 
-- *Componentes:*
+- **Componentes:**
 	- Motor (Vibración)
 	- Buzzer
 	- Botón
 	- Resistencia 10k oms
 	- Lámpara modificada
 
-- *Conexiones:*
+- **Conexiones:**
 	- 5v
 	- GND
 	- pin 9 (lámpara)
@@ -34,8 +34,8 @@ Dispositivo que nos avisa en momentos programados de manera visual y auditiva us
 
 ### Construcción
 
-- *Modificación de la lámpara:*
+**Modificación de la lámpara:**
 ![img_soldadura](fotos/soldadura.jpg)
 
-- *Montaje Final:*
+**Montaje Final:**
 ![img_montaje](fotos/vista_interior.jpg)
