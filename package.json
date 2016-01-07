@@ -1,0 +1,16 @@
+{
+  "name": "deadline-alarm",
+  "version": "0.0.1",
+  "description": "Dispositivo que nos avisa en momentos programados de manera visual y auditiva usando Node.js (J5) y Arduino",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulises Gascon",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "j5-songs": "0.0.9",
+    "johnny-five": "^0.9.17",
+    "scheduled": "^0.4.4"
+  }
+}
