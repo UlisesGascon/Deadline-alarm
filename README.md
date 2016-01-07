@@ -7,6 +7,8 @@
 ![img_frontal](fotos/vista_frontal.jpg)
 Dispositivo que nos avisa en momentos programados de manera visual y auditiva usando Node.js (J5) y Arduino
 
+### [DEMO](https://twitter.com/kom_256/status/685056191341408256)
+
 ### Dependencias
 
 - [Johnny-five](https://www.npmjs.com/package/johnny-five)
