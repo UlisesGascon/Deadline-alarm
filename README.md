@@ -1,7 +1,5 @@
-![shieldsIO](https://img.shields.io/github/issues/UlisesGascon/Deadline-alarm.svg)
-![shieldsIO](https://img.shields.io/github/release/UlisesGascon/Deadline-alarm.svg)
-![shieldsIO](https://img.shields.io/crates/l/rustc-serialize.svg)
-![shieldsIO](https://img.shields.io/david/UlisesGascon/Deadline-alarm.svg)
+<h2 align="center">:warning: This repository is not longer maintained :warning:</h2>
+
 # Deadline-alarm
 
 ![img_frontal](fotos/vista_frontal.jpg)
